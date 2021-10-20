@@ -112,7 +112,8 @@ We are NOT looking for a 100% code elegant solution with zero issues but are mor
 
 # The Principal level interview
 
-These interviews would be for our Lead Developer staff.
+These interviews would be for our architecture community staff. They will be geared to the discipline being applied for, for example
+Security Architect, Cloud architect etc
 
 After you have been selected for next stage after the telephone interview you would be invited to join a ~90 minute interview with a format which can be found below
 
