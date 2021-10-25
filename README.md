@@ -20,9 +20,10 @@ you can find out our processes [here](./handbook/guides/joining.md)
 
 Our [welcome pack](./handbook/guides/welcome.md) has all you need to know about your first days at Talent
 
-## Our policies
+[comment]: <> (## Our policies)
 
-We strongly believe that treating you, our clients and employees with respect and equal opportunities is the cornerstone
-of a successful company.
+[comment]: <> (We strongly believe that treating you, our clients and employees with respect and equal opportunities is the cornerstone)
 
-We have strong ethics on this area of our busines. You can read more [here](./handbook/guides/policies.md)
+[comment]: <> (of a successful company.)
+
+[comment]: <> (We have strong ethics on this area of our busines. You can read more [here]&#40;./handbook/guides/policies.md&#41;)
