@@ -5,7 +5,6 @@
 - Candidate packs at Talent [here](TBD)
 - Latest openings [here]()
 - The interview process [here](#the-interview-process)
-- 
 - The devops engineer (cloud engineer) interview [here](#the-cloud-engineer-face-to-face-interview)
 - The lead devops engineer (lead cloud engineer) interview [here](#the-lead-cloud-engineer-face-to-face-interview)
 - The secops engineer interview [here](#the-secops-engineer-face-to-face-interview)
