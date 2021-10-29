@@ -1,9 +1,9 @@
 # Welcome
 
 You made it!. Thanks for bearing with us through the interview process, we hope you found it informative and we answered all 
-your question. So what can you expect now?
+your questions. So what can you expect now?
 
-One thing we cant get away from is the admin side of things, we want you to get paid and sign up for all the benefits available
+Well one thing we can't get away from is the admin side of things, we want you to get paid! and sign up for all the benefits available
 to you. Over the next week or so we'll be looking to set and agenda tailored to your role
 1. Meeting the team, remotely and perhaps a face to face in the office 
 2. An introduction to the Talent, our policies and the ways of working
@@ -12,13 +12,14 @@ to you. Over the next week or so we'll be looking to set and agenda tailored to 
 
 Checklist
 
-- [ ] Macbook/laptop received (prior to you starting)
-- [ ] Call with service delivery on how to access your hardware, email, teams and slack
-- [ ] HR forms, P45 and contract signing, (you will need a printer and scanner)
-- [ ] Initial meeting with line manager
-- [ ] Call with HR to talk you through the benefits you have in your package 
+- Macbook/laptop received (prior to you starting)
+- Call with service delivery on how to access your hardware, email, teams and slack
+- HR forms, P45 and contract signing, (you will need a printer and scanner)
+- Initial meeting with line manager
+- Call with HR to talk you through the benefits you have in your package 
+- Get set up on the expenses system
 
-Here is a list of the major stake holders in the company, who will reach out to you, but feel free to ping them a message on slack or email
+Here is a list of the major stake-holders in the company, who will reach out to you, but feel free to ping them a message on slack or email
 
 | Name      | Role | Responsibilities |
 | ----------- | ----------- | --- |
