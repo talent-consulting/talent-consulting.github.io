@@ -6,15 +6,11 @@
 - Latest openings [here]()
 - The interview process [here](#the-interview-process)
 - 
-- The devops engineer (cloud engineer) interview [here]()
-- The lead devops engineer (lead cloud engineer) interview [here]()
-- The secops engineer interview [here]()
-- The cloud architect interview [here]()
-- The security architect interview [here]()
-- 
-- The Junior to Mid Level interview [here](#the-junior-to-mid-level-interview)
-- The Lead Devleoper interview [here](#the-senior-level-interview)
-- The Archiect / Prinicpal interview [here](#the-principal-level-interview)
+- The devops engineer (cloud engineer) interview [here](#the-cloud-engineer-face-to-face-interview)
+- The lead devops engineer (lead cloud engineer) interview [here](#the-lead-cloud-engineer-face-to-face-interview)
+- The secops engineer interview [here](#the-secops-engineer-face-to-face-interview)
+- The cloud architect interview [here](#the-cloud-architect-face-to-face-interview)
+- The security architect interview [here](#the-security-architect-face-to-face-interview)
 
 When you join talent you will be part of a fast paced, hands on team developing against the GDS standards required by 
 government on the projects and citizen portals supplied across the UK
@@ -48,7 +44,7 @@ The process will be as follows:
 
 Depending on the role being applied for we have different formats
 
-## The devops (cloud engineer) face to face interview
+## The cloud engineer face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -59,7 +55,7 @@ This will be performed online during covid.
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
 
-## The lead devops (lead cloud engineer) interview
+## The lead cloud engineer face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -71,7 +67,7 @@ This will be performed online during covid.
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
 
-## The secops interview
+## The secops engineer face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -82,7 +78,7 @@ This will be performed online during covid.
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
 
-## The .NET developer interview
+## The .NET developer face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -93,7 +89,7 @@ This will be performed online during covid.
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
 
-## The security architect interview
+## The security architect face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -105,7 +101,7 @@ This will be performed online during covid.
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
 
-## The cloud architect interview
+## The cloud architect face to face interview
 This will be performed online during covid.
 
 | Duration      | Description |
