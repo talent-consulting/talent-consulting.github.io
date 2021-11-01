@@ -6,7 +6,7 @@ project managers and security exports all building bigger, more scalable solutio
 
 You can read more about us on our website at [Talent Consulting UK](http://www.talentconsulting.uk)
 
-You can view this site on our github pages [site](http://www.talentconsulting.uk) 
+You can view this site on our github pages [site](http://www.talentconsulting.github.io) 
 
 ## Contributing
 
