@@ -27,7 +27,7 @@ Here is a list of the major stake-holders in the company, who will reach out to 
 | **Richard Parkins**   | Head of Architecture  | Responsible for architecture and delivery across our public sector contracts  |
 | **Jason Sims**   | Head of Product  | Responsible for our product offering across Talent |
 | **Shaun Hunt**   | Account Manager  | Recruitment specialist |
-| **Marc Parker-Hughes**   | EMEA Engage & Systems Support Manager  | Responsible fur IT operations, software and systems |
+| **Marc Parker-Hughes**   | EMEA Engage & Systems Support Manager  | Responsible for IT operations, software and hardware like macs and laptops |
 | **Jodie Beddoe**| Customer Care Manager | All holiday requests are handled through Jodie |
 | **Tina Vanes**| Operations Manager | Handles registration of new starters. amongst other things |
 
