@@ -17,7 +17,7 @@ For more information please read our [contributing](./handbook/guides/contrubuti
 
 ## Careers and joining
 
-We have a list of roles we are looking for, which can be found here, and should you want to join us 
+We have a list of roles we are looking for, which can be found [here](TBG), and should you want to join us 
 you can find out our processes [here](./handbook/guides/joining.md)
 
 Our [welcome pack](./handbook/guides/welcome.md) has all you need to know about your first days at Talent
