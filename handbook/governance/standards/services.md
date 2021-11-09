@@ -57,7 +57,7 @@ The test stage is automatically fired by a successful build stage
 
 This stage will effectively run any tests, be it unit, outside-in, functional or regression tests
 
-# The Scan stage
+## The Scan stage
 
 This stage is important for the security of the code you write and the images or artefacts you produce
 and there are plenty of tools out in the wild to test and check your code.
@@ -75,7 +75,7 @@ Here is a list of the tools, again in no specific order, you can look at to secu
 - **OWASP** Zap is an open-source web application security scanner
 - **Anchore** is an open-source tool for scanning and analyzing container images for security vulnerabilities and policy issues
 
-# The Create stage
+## The Create stage
 
 The create stage in the SDLC creates the actual artifacts that can be deployed. An 
 artifact can be literally anything, but usually it is a docker image that can be 
@@ -90,3 +90,4 @@ of writing there are many repositories to use
 4. Azure artifacts [here](https://azure.microsoft.com/en-us/services/devops/artifacts/)
 
 # Continuous deployment
+
