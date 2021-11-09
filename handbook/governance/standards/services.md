@@ -37,7 +37,7 @@ There are several CI platforms that can be used, in no specific order:
 - Teamcity
 - Jenkins
 
-## The Build stage
+### The Build stage
 
 The build process should run via a standard script called `build.sh` and a non-zero exit code
 will mean a failed build. See TBD for the standard file structure for a service.
@@ -48,7 +48,7 @@ repository or a webhook). In either event the `build.sh` script will be run.
 This stage may actually not do an awful lot for service written in node, as these are compiled 
 at runtime, however for netcore the code needs to be compiled (built) before being run specifically
 
-## The Test stage
+### The Test stage
 
 The test process should run via a standard script called `test.sh` and a non-zero exit code
 will mean a failed test stage. See TBD for the standard file structure for a service.
@@ -57,7 +57,7 @@ The test stage is automatically fired by a successful build stage
 
 This stage will effectively run any tests, be it unit, outside-in, functional or regression tests
 
-## The Scan stage
+### The Scan stage
 
 This stage is important for the security of the code you write and the images or artefacts you produce
 and there are plenty of tools out in the wild to test and check your code.
@@ -75,7 +75,7 @@ Here is a list of the tools, again in no specific order, you can look at to secu
 - **OWASP** Zap is an open-source web application security scanner
 - **Anchore** is an open-source tool for scanning and analyzing container images for security vulnerabilities and policy issues
 
-## The Create stage
+### The Create stage
 
 The create stage in the SDLC creates the actual artifacts that can be deployed. An 
 artifact can be literally anything, but usually it is a docker image that can be 
