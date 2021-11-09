@@ -2,8 +2,8 @@
 
 ## Quick links
 
-- Candidate packs at Talent [here](TBD)
-- Latest openings [here]()
+- Candidate packs at Talent [here](https://www.talentconsulting.uk/careers)
+- Latest openings [here](https://www.talentconsulting.uk/careers)
 - The interview process [here](#the-interview-process)
 - The devops engineer (cloud engineer) interview [here](#the-cloud-engineer-face-to-face-interview)
 - The lead devops engineer (lead cloud engineer) interview [here](#the-lead-cloud-engineer-face-to-face-interview)
