@@ -10,8 +10,11 @@ on the following:
 
 # Continuous Integration
 
-Continuous integration is the process of building, testing and packaging the code
-and artefacts needed to deploy the service.
+Continuous integration (CI) is the practice of automating the integration
+of code changes from multiple contributors into a single software project.
+It's a primary DevOps best practice, allowing developers to frequently 
+merge code changes into a central repository where builds and tests then 
+run. ([ref](https://www.atlassian.com/continuous-delivery/continuous-integration#:~:text=Continuous%20integration%20(CI)%20is%20the,builds%20and%20tests%20then%20run.))
 
 But way do we need CI?
 
@@ -94,3 +97,20 @@ code it was generated from
 
 # Continuous deployment
 
+Continuous Deployment (CD) is a software release process that uses 
+automated testing to validate if changes to a codebase are correct 
+and stable for immediate autonomous deployment to a production environment. ([ref](https://www.atlassian.com/continuous-delivery/continuous-deployment))
+
+Not many people use true CD, ie having a fully automated release process but it should be 
+something that companies look to reach. Many would have a manual release button
+which allows a quasi CD process, ie a choice of the artifact is made and a schdeuled
+release is created.
+
+A lot of the services named in the CI section can do CD, eg teamcity, as you can 
+create a step in a pipeline that is manually triggered, allowing the user to select which
+artifact to deploy.
+
+![CD](../../../assets/CD.drawio.png)
+
+TRUE CD would be deploying through your environments all the way to production, basing
+your confidence on the tests you have written
