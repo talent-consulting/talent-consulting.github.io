@@ -81,13 +81,16 @@ The create stage in the SDLC creates the actual artifacts that can be deployed. 
 artifact can be literally anything, but usually it is a docker image that can be 
 installed onto a docker [daeman](https://dockerlabs.collabnix.com/beginners/components/daemon/#:~:text=The%20Docker%20daemon%20is%20a,on%20MacOS%20and%20Windows%20too.) or a docker orchestrator (like kubernetes)
 
-Generally these artifacts will be deployed to a package manager repository. At the time 
-of writing there are many repositories to use
+Generally these artifacts will be deployed to a package manager repository, of which there are many flavours
 
 1. Github packages [here](https://github.com/features/packages)
 2. AWS ECR [here](https://aws.amazon.com/ecr/)
 3. Dockerhub [here](https://hub.docker.com/)
 4. Azure artifacts [here](https://azure.microsoft.com/en-us/services/devops/artifacts/)
+
+All these repositories do a similar role, but fundamentally they can store many kinds of artifect and stamp each with
+a version. This allows a user to see a historical record of each build and what source
+code it was generated from
 
 # Continuous deployment
 
