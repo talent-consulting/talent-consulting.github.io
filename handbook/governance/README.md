@@ -1,5 +1,8 @@
 # Governance
 
+#Quick links
+Service standards [here](./standards/services.md)
+
 Standards exist for a reason, we at Talent have been writing, testing and deploying code 
 and creating infrastructure to some of the highest standards. These standards exist to allow
 us to demonstrate to the clients we have produced stable, secure and scalable systems.
