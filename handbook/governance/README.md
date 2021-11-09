@@ -1,7 +1,7 @@
 # Governance
 
-#Quick links
-Service standards [here](./standards/services.md)
+# Quick links
+Service standards [here](./standards/services)
 
 Standards exist for a reason, we at Talent have been writing, testing and deploying code 
 and creating infrastructure to some of the highest standards. These standards exist to allow
