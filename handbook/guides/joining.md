@@ -39,7 +39,7 @@ The interview process is important for both you and the company, we want you to 
 1. An initial telephone call for no more 20 minutes to discuss you and what you are looking for. At this stage we feel you have the right skill set and behaviours for the roles we need.
 2. Within 1 business day we will be contacting you as to how we felt and whether you will be put through to a full interview. We would give constructive feedback should you not make it to the next stage. We would at this stage indicate whether this is a remote based interview or a physical face to face.
 
-The next depends on whether the rol is technical or not
+The next depends on whether the role is technical or not
 
 __Technical roles__
 
