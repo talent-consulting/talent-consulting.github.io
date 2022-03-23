@@ -39,7 +39,9 @@ The process will be as follows:
 
 1. An initial telephone call for no more 20 minutes to discuss you and what you are looking for. At this stage we feel you have the right skill set and behaviours for the roles we need.
 2. Within 1 business day we will be contacting you as to how we felt and whether you will be put through to a full interview. We would give constructive feedback should you not make it to the next stage. We would at this stage indicate whether this is a remote based interview or a physical face to face.
-3. The next stage would be a technical interview of around 90 minutes with stakeholders in the business. We would ask you what your favoured language is to develop in and tailor the test accordingly. Under some circumstances we would be looking for a specific language and this would be indicated in the phone interview.
+3.
+    - For technical roles there would be a technica interview of around 90 minutes with stakeholders in the business. We would ask you what your favoured language is to develop in and tailor the test accordingly. Under some circumstances we would be looking for a specific language and this would be indicated in the phone interview. 
+    - For non-technical roles such as Delivery Manager or Business Analyst the next stage would be an interview of around 45 minutes with stakeholders in the business where we will discuss your past experience, relevant skills and what you are looking for in your role.
 
 Depending on the role being applied for we have different formats
 
@@ -111,6 +113,18 @@ This will be performed online during covid.
 | 30 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+
+## Delivery Manager / BA face to face interview
+
+
+
+| Duration | Description |
+| 5 mins | Introduction from us and a bit more about the company |
+| 10 mins | An introduction from the candidate and a resume review about aspects of your experience and your career aspirations |
+| 15 mins | Discussions to help us understand further about your skills and experience |
+| 10 mins | A few STAR behavioural questions |
+| 10 mins | Candidate questions, and thank you’s, with a definitive date for feedback |
+ 
 
 # Next steps
 
