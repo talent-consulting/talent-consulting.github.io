@@ -1,9 +1,15 @@
+---
+category: Open source
+type: Guides
+icon: fas fa-security fa-2x
+---
+
 # Contributing 
 
 At Talent we embrace change, and understand that we don't always get things right. If you see 
 a problem within our handbook then please let us know. We won't bite and will be glad of your feedback.
 
-# How?
+## How?
 
 If you just want to start a conversation about something then you can create an [issue](https://github.com/talent-consulting/talent-consulting.github.io/issues)
 

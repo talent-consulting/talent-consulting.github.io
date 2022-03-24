@@ -17,7 +17,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
 </head>
-
+{{ site | jsonify}}
 <body>
     <div class="wrapper">
         <!-- Sidebar  -->
@@ -29,36 +29,15 @@
             <ul class="list-unstyled components">
                 <li>
                     <a href="/">Home</a>
-                </li><li class="active">
-                    <a href="#guides" aria-expanded="tre" class="dropdown-toggle">Guides</a>
-                    <ul class="list-unstyled" id="homeSubmenu">
-                        <li>
-                            <a href="/guides">Home</a>
-                        </li>
-                        <li>
-                            <a href="#">Home 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Home 3</a>
-                        </li>
-                    </ul>
                 </li>
                 <li>
-                    <a href="#">About</a>
+                    <a href="/guides">Guides</a>
                 </li>
                 <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
-                    <ul class="list-unstyled" id="pageSubmenu">
-                        <li>
-                            <a href="#">Page 1</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 3</a>
-                        </li>
-                    </ul>
+                    <a href="/">Joining</a>
+                </li>
+                <li>
+                    <a href="/">Way we work</a>
                 </li>
                 <li>
                     <a href="#">Portfolio</a>
