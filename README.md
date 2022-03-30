@@ -12,4 +12,4 @@ In order to run this site you will need the usual dependencies, see here for mor
 
 - Navigate to the docs folder
 - run __bundle install__
-_ run __bundle exec jekyll serve__
+- run __bundle exec jekyll serve__
