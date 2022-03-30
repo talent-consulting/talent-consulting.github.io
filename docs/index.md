@@ -30,7 +30,7 @@ The following sections contains information for the public audience on Talent Co
                 </div>
                 <div class="column is-8 has-body-background">
                     <div class="has-padding-medium">
-                        <a href="{{ item.url | relative_url }}"  class="is-block stretched-link" data-linktype="absolute-path">
+                        <a href="{{ item.dir | relative_url }}"  class="is-block stretched-link" data-linktype="absolute-path">
                             <h1 id="{{ item.title | remove: ' ' }}" class="is-size-large">{{ item.title }}</h1>
                         </a>
                         <p class="subIndex">{{item.description}}</p>

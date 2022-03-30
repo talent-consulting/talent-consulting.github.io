@@ -24,10 +24,16 @@
                 <a href="/"><img src="/assets/header-image.svg"/></a>
             </div>
 
-            {% assign pages = site.pages 
-                | group_by: "category" %}
-                
-                
+            <!-- {{ page | jsonify }} -->
+            {% if page.url != "/" %}
+                {% assign pages = site.pages | where: "category", "Company" %}
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+            </ul>
+            {% else %}
+                {% assign pages = site.pages | group_by: "category" %}
             <ul class="list-unstyled components">
                 
                 {% for page in pages %}
@@ -45,41 +51,15 @@
                 </li>
                 {% endif %}
                 {% endfor %}
-                
-                <!-- <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
-                        <li>
-                            <a href="#">Page 1</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 3</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="/">Home</a>
-                </li>
-                <li>
-                    <a href="/company">Company</a>
-                </li>
-                <li>
-                    <a href="/guides">Guides</a>
-                </li>
-                <li>
-                    <a target="blank" href="http://www.talentconsulting.uk">Talent consulting</a>
-                </li>
-            </ul> -->
-
+            </ul>
+            {%  endif %}
         </nav>
 
         <!-- Page Content  -->
         <div id="content">
             {{content}}
         </div>
+    
     </div>
 
     <!-- jQuery CDN - Slim version (=without AJAX) -->

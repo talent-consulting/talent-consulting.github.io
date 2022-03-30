@@ -2,3 +2,11 @@ theme: jekyll-theme-cayman
 relative_links:
   enabled: true
   collections: true
+plug-ins:
+  - jekyll-toc
+defaults:
+  -
+    scope:
+      path: 'rfcs'
+    values:
+      rfc:true  
