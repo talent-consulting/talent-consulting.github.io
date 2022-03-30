@@ -1,25 +1,15 @@
 # Welcome
 
-At Talent Consulting we strive to build better and more relevant solutions for our users. We have been working 
-in the government sector for over 20 years and have built up a network of skilled people from developers and architects to 
-project managers and security exports all building bigger, more scalable solutions for our users.
+This repository serves as a public forum for everything we do at Talent in tech. The repository is best served in github pages.
 
-You can read more about us on our website at [Talent Consulting UK](http://www.talentconsulting.uk)
+> https://talentconsulting.github.io/
 
-You can view this site on our github pages [site](https://talentconsulting.github.io)
+The site is separated into specific categories to aid navigation.
 
-# Contributing
+In order to run this site you will need the usual dependencies, see here for more information.
 
-We dont always get it right and we know things change fast so if you see anything that is incorrect
- please open a pull request or raise and issue.
+## Running the site locally
 
-For more information please read our [contributing](./handbook/guides/contrubuting.md) guidelines 
-
-# Careers and joining
-
-We have a list of roles we are looking for, which can be found [here](TBG), and should you want to join us 
-you can find out our processes [here](./handbook/guides/joining.md)
-
-Our [welcome pack](./handbook/guides/welcome.md) has all you need to know about your first days at Talent
-
-[c
+- Navigate to the docs folder
+- run __bundle install__
+_ run __bundle exec jekyll serve__
