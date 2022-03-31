@@ -1,22 +1,21 @@
 ---
-category: Company
-type: Roles
-role-type: Secops
+category: Guides
+type: Best practice
 pagetype: Index
 icon: fas fa-building fa-2x
-description: Joining, History and about us
+description: Best practices when developing 
 ---
 
-# Talent Consulting
+# Best practices
  
 > The documents in this section talk through the company and how we operate
  
 {% assign pages = site.pages
-  | where: "category", "Company"
+  | where: "category", "Guides"
+  | where: "subtype", "Devops"
   | group_by: "type" %}
  
 {% for page in pages %}
-
 
 ### {{ page.name }}
 

@@ -24,39 +24,13 @@
                 <a href="/"><img src="/assets/header-image.svg"/></a>
             </div>
 
-            <!-- {{ page | jsonify }} -->
-            {% if page.url != "/" %}
-                {% assign pages = site.pages | where: "category", "Company" %}
-            <ul class="list-unstyled components">
-                <li>
-                    <a href="/">Home</a>
-                </li>
-            </ul>
-            {% else %}
-                {% assign pages = site.pages | group_by: "category" %}
-            <ul class="list-unstyled components">
-                
-                {% for page in pages %}
-                {% if page.name != "Index" and page.name != "" %}
-                        
-                <li>
-                    <a href="#{{page.name}}" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">{{page.name}}</a>
-                    <ul class="list-unstyled" id="{{page.name}}">
-                        {% for item in page.items %}
-                        <li>
-                            <a href="#{{item.title}}">{{item.title}}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            {%  endif %}
+            {% include toc.html html=content %}
+            
         </nav>
 
         <!-- Page Content  -->
         <div id="content">
+            {% include breadcrumb.html %}
             {{content}}
         </div>
     

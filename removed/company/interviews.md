@@ -11,20 +11,8 @@ Each role at Talent has a tailored interview where we as a company try to get as
 
 The culture fit is very important to us as we know we can give you training in areas that we would need and give you the support you need to gain that knowledge. The important thing to us is that you have the passion and drive we need to help you build your career at Talent
 
-## Quick links
 
-- Candidate packs at Talent [here](https://www.talentconsulting.uk/careers)
-- Latest openings [here](https://www.talentconsulting.uk/careers)
-- The interview process [here](#the-interview-process)
-- The devops engineer (cloud engineer) interview [here](#the-cloud-engineer-face-to-face-interview)
-- The lead devops engineer (lead cloud engineer) interview [here](#the-lead-cloud-engineer-face-to-face-interview)
-- The secops engineer interview [here](#the-secops-engineer-face-to-face-interview)
-- The cloud architect interview [here](#the-cloud-architect-face-to-face-interview)
-- The security architect interview [here](#the-security-architect-face-to-face-interview)
-- The delivery manager / BA interview [here](#delivery-manager--ba-face-to-face-interview)
-
-When you join talent you will be part of a fast paced, hands on team developing against the GDS standards required by 
-government on the projects and citizen portals supplied across the UK
+You can find our candidates packs containing all the information you need for our roles on our public website [here](https://www.talentconsulting.uk/careers) and our latest openings [here](https://www.talentconsulting.uk/careers), but please read on to find out more information about our hiring process!
 
 # What we are looking for
 
@@ -61,7 +49,7 @@ __Non-technical roles__
 Non tech roles such as Delivery Manager or Business Analyst the next stage would be an interview of around 45 minutes with stakeholders in the business where we will discuss your past experience, relevant skills and what you are looking for in your role.
 
 
-## The cloud engineer face to face interview
+## Cloud Engineer
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -71,8 +59,8 @@ This will be performed online during covid.
 | 40 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
-
-## The lead cloud engineer face to face interview
+{:.table}
+## Lead Cloud Engineer
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -83,8 +71,9 @@ This will be performed online during covid.
 | 40 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+{:.table}
 
-## The secops engineer face to face interview
+## Sec-ops Engineer
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -94,8 +83,9 @@ This will be performed online during covid.
 | 40 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+{:.table}
 
-## The .NET developer face to face interview
+## NET developer
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -105,8 +95,9 @@ This will be performed online during covid.
 | 40 mins | Technical test, pairing session on approaching a problem |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+{:.table}
 
-## The security architect face to face interview
+## Security Architect
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -117,8 +108,9 @@ This will be performed online during covid.
 | 30 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+{:.table}
 
-## The cloud architect face to face interview
+## Cloud Architect
 This will be performed online during covid.
 
 | Duration      | Description |
@@ -129,10 +121,9 @@ This will be performed online during covid.
 | 30 mins | Whiteboarding session on an architecture and how we would operate on this |
 | 10 mins | A few [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) behavoural questions |
 | 10 mins | Candidate questions, and thank you's, with a definitive date for feedback |
+{:.table}
 
-## Delivery Manager / BA face to face interview
-
-
+## Delivery Manager / BA
 
 | Duration | Description |
 | 5 mins | Introduction from us and a bit more about the company |
@@ -140,7 +131,7 @@ This will be performed online during covid.
 | 15 mins | Discussions to help us understand further about your skills and experience |
 | 10 mins | A few STAR behavioural questions |
 | 10 mins | Candidate questions, and thank you’s, with a definitive date for feedback |
- 
+{:.table} 
 
 # Next steps
 

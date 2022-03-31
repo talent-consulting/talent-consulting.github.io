@@ -1,28 +1,27 @@
 ---
-category: Company
-type: Roles
-role-type: Secops
+category: Guides
 pagetype: Index
 icon: fas fa-building fa-2x
-description: Joining, History and about us
+description: The standards and governance we adhere to in all our public sector contracts
 ---
 
-# Talent Consulting
+# Governance and Standards
  
-> The documents in this section talk through the company and how we operate
+> The documents in this section talk through the governance and architectural standards
  
 {% assign pages = site.pages
-  | where: "category", "Company"
+  | where: "category", "Guides"
+  | where: "subtype", "Standards"
   | group_by: "type" %}
  
 {% for page in pages %}
 
+{% if page.name != "" %}
 
 ### {{ page.name }}
 
 <div class="grid is-fibonacci">
     {% for item in page.items %}
-        {% if item.pagetype != "Index" %}
     <div class="grid-item">
         <div class="columns is-mobile is-gapless has-box-shadow-heavy has-border-radius-large has-overflow-hidden is-relative"
             data-bi-name="card">
@@ -44,7 +43,7 @@ description: Joining, History and about us
             </div>
         </div>
     </div>
-        {% endif %}
     {% endfor %}
 </div>
+{% endif %}
 {% endfor %}

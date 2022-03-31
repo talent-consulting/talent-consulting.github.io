@@ -1,28 +1,17 @@
----
-category: Company
-type: Roles
-role-type: Secops
-pagetype: Index
-icon: fas fa-building fa-2x
-description: Joining, History and about us
----
-
 # Talent Consulting
  
 > The documents in this section talk through the company and how we operate
  
 {% assign pages = site.pages
   | where: "category", "Company"
-  | group_by: "type" %}
+  | group_by: "category" %}
  
 {% for page in pages %}
-
 
 ### {{ page.name }}
 
 <div class="grid is-fibonacci">
     {% for item in page.items %}
-        {% if item.pagetype != "Index" %}
     <div class="grid-item">
         <div class="columns is-mobile is-gapless has-box-shadow-heavy has-border-radius-large has-overflow-hidden is-relative"
             data-bi-name="card">
@@ -38,13 +27,12 @@ description: Joining, History and about us
                 <div class="has-padding-medium">
                     <a href="{{ item.url | relative_url }}"  class="is-block stretched-link" data-linktype="absolute-path">
                         <h2 id="{{ item.title | remove: ' ' }}" class="is-size-large">{{ item.title }}</h2>
-                        <p class="subIndex">{{item.description}}</p>
                     </a>
                 </div>
             </div>
         </div>
     </div>
-        {% endif %}
     {% endfor %}
 </div>
+ 
 {% endfor %}

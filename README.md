@@ -8,6 +8,10 @@ The site is separated into specific categories to aid navigation.
 
 In order to run this site you will need the usual dependencies, see here for more information.
 
+## Requirements and dependencies
+
+You will need jeykll installed, see here for [more](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll]) info
+
 ## Running the site locally
 
 - Navigate to the docs folder
