@@ -8,3 +8,5 @@ order: 1000
 ---
 
 # Development standards
+
+Content coming soon...

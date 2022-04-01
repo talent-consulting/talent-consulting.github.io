@@ -1,8 +1,6 @@
 # Talent Consulting hand book
 
-## General
-
-The following sections contains information for the public audience on Talent Consulting and information about how we work and the process, governance and standards we follow.
+The following sections contains information for the public audience on Talent Consulting and information about how we work and the process, governance and standards we follow. You can find information on joining, what to expect on first days and the roles we are looking for at Talent to help build our permanent team
 
 ---
 

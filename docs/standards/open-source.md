@@ -8,4 +8,8 @@ order: 1000
 
 # How we collaborate
 
+Content coming soon...
+
 # Contributing to our repo
+
+Content coming soon...

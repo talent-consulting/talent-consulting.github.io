@@ -8,3 +8,5 @@ order: 1000
 ---
 
 # Architecture standards
+
+Content coming soon...

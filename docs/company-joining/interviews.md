@@ -27,4 +27,4 @@ __Non-technical roles__
 
 Non tech roles such as Delivery Manager or Business Analyst the next stage would be an interview of around 45 minutes with stakeholders in the business where we will discuss your past experience, relevant skills and what you are looking for in your role.
 
-To find out more about the interview for particular roles pleas click [here](/company-roles)
+To find out more about the interview for particular roles please click [here](/company-roles)

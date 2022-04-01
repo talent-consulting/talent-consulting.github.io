@@ -8,3 +8,5 @@ order: 1000
 ---
 
 # GDS standards
+
+Content coming soon...
