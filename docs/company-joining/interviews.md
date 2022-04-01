@@ -1,25 +1,12 @@
 ---
 category: Company
-type: About
-role-type: Senior Cloud Engineer
+type: Joining
 icon: fas fa-clipboard-question fa-2x
-description: What we are looking for in a candidate
+description: Joining, what you can expect from the process
+order: 1000
 ---
 
-# What people are we looking for
-
-Most of all someone with a passion for technology and someone who has the right behaviours when working within a team.
-We realise that people are different and someone could be really interested in tech but also be interested in developing people, coaching etc
-
-So we are interested in everyone! We do have some basic behaviours we really are looking for and some things we follow as a company, do you:
-
-1. Share your knowledge with your team, helping others through communication of these ideas. 
-2. See success as delivery of a project, rather than an individual piece of that overall solution
-3. Enjoy the dialogue of coming up with solutions and accept challenges to your ideas
-
-If this is you please read on
-
-# The interview process
+# Interviews
 
 We don't just rely on cold calling or blanket emailing to get our expertise, we want to invite people to come look and decide whether they like the company ethic, they like the career progression and the work we do.
 
@@ -39,3 +26,5 @@ There would be a technical interview of around 90 minutes with stakeholders in t
 __Non-technical roles__
 
 Non tech roles such as Delivery Manager or Business Analyst the next stage would be an interview of around 45 minutes with stakeholders in the business where we will discuss your past experience, relevant skills and what you are looking for in your role.
+
+To find out more about the interview for particular roles pleas click [here](/company-roles)

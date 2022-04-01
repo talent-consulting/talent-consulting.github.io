@@ -7,16 +7,18 @@ The following sections contains information for the public audience on Talent Co
 ---
 
 <div>
-{% assign pages = site.pages 
+{% assign pages = site.pages
     | where: "pagetype", "Index" 
     | group_by: "category" %}
 
     {% for page in pages %}
+        {% assign items = page.items | sort: "order" %}
 
     <h1 id="{{page.name}}">{{page.name}}</h1>
     
     <div class="grid is-fibonacci">
-    {% for item in page.items %}
+    
+    {% for item in items %}
         <div class="grid-item">
             <div class="columns is-mobile is-gapless has-box-shadow-heavy has-border-radius-large has-overflow-hidden is-relative"
                 data-bi-name="card">
@@ -39,7 +41,8 @@ The following sections contains information for the public audience on Talent Co
             </div>
         </div>
     {% endfor %}
+
     </div>
-    
+    <hr/>
     {% endfor %}
 </div>

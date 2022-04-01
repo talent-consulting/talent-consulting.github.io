@@ -1,28 +1,26 @@
 ---
-category: Guides
+category: Company
 pagetype: Index
-icon: fas fa-medal fa-2x
-description: The standards and governance we adhere to in all our public sector contracts
-order: 1000
+icon: fas fa-address-card fa-2x
+description: A bit about us and the roles currently available
+order: 1
 ---
 
-## Governance and Standards
+## About us
  
-> The documents in this section talk through the governance and architectural standards
+> The documents in this section detail how we got here and our international side of the business
  
 {% assign pages = site.pages
-  | where: "category", "Guides"
-  | where: "subtype", "Standards"
+  | where: "category", "Company"
+  | where: "type", "About"
   | group_by: "type" %}
  
 {% for page in pages %}
-
-{% if page.name != "" %}
-
 ## {{ page.name }}
 
 <div class="grid is-fibonacci">
     {% for item in page.items %}
+        {% if item.pagetype != "Index"%}
     <div class="grid-item">
         <div class="columns is-mobile is-gapless has-box-shadow-heavy has-border-radius-large has-overflow-hidden is-relative"
             data-bi-name="card">
@@ -44,7 +42,7 @@ order: 1000
             </div>
         </div>
     </div>
+        {% endif %}
     {% endfor %}
 </div>
-{% endif %}
 {% endfor %}

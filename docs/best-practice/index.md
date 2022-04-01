@@ -2,8 +2,9 @@
 category: Guides
 type: Best practice
 pagetype: Index
-icon: fas fa-building fa-2x
+icon: fas fa-ranking-star fa-2x
 description: Best practices when developing 
+order: 10000
 ---
 
 # Best practices
