@@ -10,11 +10,13 @@ order: 1000
  
 > The documents in this section talk through the company and how we operate
  
-{% assign pages = site.pages
+{% assign pages = site.pages | sort: "order"
   | where: "category", "Company"
   | where: "type", "Joining"
   | group_by: "type" %}
  
+
+
 {% for page in pages %}
 
 <div class="grid is-fibonacci">
