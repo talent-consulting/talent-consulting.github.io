@@ -7,35 +7,45 @@ description: Development standards and governance
 order: 1000
 ---
 
+
+# Why do we do this?
+
+The standards and practices below are for the benefit of the team and its combined outcome as a whole. They show that the developer is thinking of and working for the team outcome not just in solving the immediate programming problem. 
+
+It shows that the problem has been solved well, in a way that does not disrupt other developers or testers, is of acceptable quality, is mainatainable, is testable, is tested, is ready for others to spend time on, and is fit for purpose.
+
 # Development standards
 
-Development, in any language or framework combination, will be working on use cases, usually recorded with Gherkin like statemetns in an issue managemtn system, agreed with and by the Analysis and Design phases and that have passed the Definition of Ready (DoR), are completed to the prevailing best practices to a Defintiion of Done (DoD).
+The following standards are a condensation of many years of experience in software development gained in small medium and large development teams.
 
+Development, in any language or framework combination, will be working on feature, bug or issue or task `ticket's`, usually recorded with Gherkin like statements in an `issue management system` such as `Jira`.
 
-The team will usually decide on which source code workflow to be adhered to but assume a default of `trunk-based-workflow` unless your issue is long running  in which case  `Gitflow` approach may be adopted. Either way your team will decide on its own ways fo working. Some sort of branching flow will be adopted.
+Tickets are agreed within the Analysis and Design phases, that have passed the accepted `Definition of Ready` (DoR), are completed to the prevailing best practices to the accepted `Defintiion of Done` (DoD).
 
-All `Must` and as many `Should` status criteria will be fulfilled as possible.
+Code written will be managed with a source code management system, probably `Git`, and the team you work within will usually decide on which source code workflow to be adhered to. 
 
-## Definition of Ready (DoR)
+You may assume a default of `trunk-based-workflow` unless your issue is long running in which case  `Gitflow` approach may be adopted. Either way your team will decide on its own ways of working. Some sort of branching flow will be adopted.
 
-Agreed minima (within the team) for a use case / issue to be ready for developers to commence sub-tasking and proceed to work.
+Source code should be commited and pushed often to your working branch with small discrete changes to allow yourself or any other developer to branch or pull from that small change at any time for any reason.
 
-### Example Definition of Ready (DoR)
+For the `DoR` and `DoD` all `Must` and as many as possible of the `Should` criteria are to be fulfilled.
 
+## DoR - Definition of Ready
+Agreed minima (within the team) for a use case / issue to be ready for developers to commence technical analysis, sub-tasking and proceed to work.
 
-| Status | Definition | 
+### Example DoR
+
+| Status | Definition |
 |--------|-------------|
-| Must    | Describe bug with expected behaviour, actual behaviour and means/process to replicate. |
-| Must    | Describe feature as  Given-when-then |
+| Must    | Describe bug with expected behaviour, actual behaviour and how it can be replicated. |
+| Must    | Describe feature as Given-when-then |
 | Must    | Describe issue as Given-when-then |
-| Must    | Define acceptance criterion |
-| Should  | Define input and output values |
+| Must    | Define acceptance criteria |
+| Could   | Define input and output values for testing |
 
-
-## Defintion of done (DoD)
+## DoD - Defintion of done
 
 Agreed minima (within the team) for development work to be considered completed and ready to pass to the testing phase.
-
 
 ### Example DoD
 
@@ -67,6 +77,8 @@ All issues run from commencement through iteration to completion.
 
 | Status | Definition | 
 |--------|-------------|
+| Must | All code written by you is covered by at least one automated test |
+| Must | All automated code tests pass  |
 | Must | Code is manually tested locally  |
 | Must | Code cold-setup instructions are reviewed and adjusted accordingly  |
 | Must | Code is pushed to branch and a Pull request generated nominating reviewers  |
@@ -76,8 +88,7 @@ All issues run from commencement through iteration to completion.
 | Must | Issue branch is merged, and deployed to automated testing  |
 | Should | The Issue management system item is advanced to `in test` [^1] |
 
-
-## Best pracices 
+## Best practices 
 
 These best practices will be guidelines on the subjects (in no order) of;
 
@@ -97,9 +108,6 @@ These best practices will be guidelines on the subjects (in no order) of;
 - Code workflows
 
 
-# Why do we do this?
-
-The practices above are for the benefit of the team as a whole. And show that the developer is thinking of the team outcome not just in solving the immediate programming problem. It shows that the problem has been well produced in a way that does not disrupt other developers or testers, is of acceptable quality, is testable and is tested, is ready for others to spend time on, and is fit for purpose.
 
 # Footnotes
 
