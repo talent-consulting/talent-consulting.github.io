@@ -12,11 +12,20 @@ order: 1000
 
 The standards and practices below are for the benefit of the team and its combined outcome as a whole. They show that the developer is thinking of and working for the team outcome not just in solving the immediate programming problem. 
 
-It shows that the problem has been solved well, in a way that does not disrupt other developers or testers, is of acceptable quality, is mainatainable, is testable, is tested, is ready for others to spend time on, and is fit for purpose.
+It shows that the problem has been;
+* solved well
+* in a way that does not disrupt other team members
+* is of acceptable quality
+* is maintainable
+* is testable
+* is tested
+* is ready for others to spend time on
+* is fit for purpose
+* has been tracked and managed
 
 # Development standards
 
-The following standards are a condensation of many years of experience in software development gained in small medium and large development teams.
+The following standards are a summary of many years of experience in software development gained in small medium and large development teams by other developers.
 
 Development, in any language or framework combination, will be working on feature, bug or issue or task `ticket's`, usually recorded with Gherkin like statements in an `issue management system` such as `Jira`.
 
@@ -26,7 +35,7 @@ Code written will be managed with a source code management system, probably `Git
 
 You may assume a default of `trunk-based-workflow` unless your issue is long running in which case  `Gitflow` approach may be adopted. Either way your team will decide on its own ways of working. Some sort of branching flow will be adopted.
 
-Source code should be commited and pushed often to your working branch with small discrete changes to allow yourself or any other developer to branch or pull from that small change at any time for any reason.
+Source code should be commited and pushed often to your working branch with small discrete changes to allow yourself or any other developer to branch or pull from the point in time of that small change at any later time for any reason.
 
 For the `DoR` and `DoD` all `Must` and as many as possible of the `Should` criteria are to be fulfilled.
 
