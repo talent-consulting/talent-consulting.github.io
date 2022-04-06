@@ -2,7 +2,7 @@
 category: Company
 type: Roles
 role-type: Security Architect
-icon: fas fa-clipboard-question fa-2x
+icon: fas fa-house-lock fa-2x
 description: A security architect, what to expect from the role and interview
 order: 1000
 ---
