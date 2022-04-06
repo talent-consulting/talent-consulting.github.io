@@ -2,7 +2,7 @@
 category: Company
 type: Joining
 role-type: Senior Cloud Engineer
-icon: fas fa-clipboard-question fa-2x
+icon: fas fa-handshake fa-2x
 description: What are the next steps
 order: 10000
 ---

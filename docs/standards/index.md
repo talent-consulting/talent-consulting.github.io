@@ -2,7 +2,7 @@
 category: Guides
 pagetype: Index
 icon: fas fa-medal fa-2x
-description: The standards and governance we adhere to in all our public sector contracts
+description: The standards and governance we adhere work to
 order: 1000
 ---
 
