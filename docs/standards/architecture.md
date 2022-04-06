@@ -9,8 +9,6 @@ order: 1000
 
 # Architecture standards
 
-Content coming soon...
-
 # Security 
 
 Security is one of the main concerns in today's technology landscape.

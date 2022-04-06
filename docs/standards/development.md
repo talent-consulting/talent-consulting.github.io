@@ -8,21 +8,6 @@ order: 1000
 ---
 
 
-# Why do we do this?
-
-The standards and practices below are for the benefit of the team and its combined outcome as a whole. They show that the developer is thinking of and working for the team outcome not just in solving the immediate programming problem. 
-
-It shows that the problem has been;
-* solved well
-* in a way that does not disrupt other team members
-* is of acceptable quality
-* is maintainable
-* is testable
-* is tested
-* is ready for others to spend time on
-* is fit for purpose
-* has been tracked and managed
-
 # Development standards
 
 The following standards are a summary of many years of experience in software development gained in small medium and large development teams by other developers.
@@ -39,6 +24,21 @@ Source code should be commited and pushed often to your working branch with smal
 
 For the `DoR` and `DoD` all `Must` and as many as possible of the `Should` criteria are to be fulfilled.
 
+# Why do we do this?
+
+The standards and practices below are for the benefit of the team and its combined outcome as a whole. They show that the developer is thinking of and working for the team outcome not just in solving the immediate programming problem. 
+
+It shows that the problem has been;
+* solved well
+* in a way that does not disrupt other team members
+* is of acceptable quality
+* is maintainable
+* is testable
+* is tested
+* is ready for others to spend time on
+* is fit for purpose
+* has been tracked and managed
+
 ## DoR - Definition of Ready
 Agreed minima (within the team) for a use case / issue to be ready for developers to commence technical analysis, sub-tasking and proceed to work.
 
@@ -51,6 +51,7 @@ Agreed minima (within the team) for a use case / issue to be ready for developer
 | Must    | Describe issue as Given-when-then |
 | Must    | Define acceptance criteria |
 | Could   | Define input and output values for testing |
+{:.table}
 
 ## DoD - Defintion of done
 
@@ -66,7 +67,7 @@ All issues run from commencement through iteration to completion.
 |--------|-------------|
 | Must | Code is branched from the development main branch and named accordingly |
 | Should | The Issue management system item is advanced to `in development` [^1] |
-
+{:.table}
 
 #### Iteration
 
@@ -81,6 +82,7 @@ All issues run from commencement through iteration to completion.
 | Should | Code is cleaned and improved along the way  |
 | Should | Tests are re-run for everything regularly |
 | Must | Code is commited and pushed regularly (at least once a day [^3] |
+{:.table}
 
 #### Completion
 
@@ -96,6 +98,7 @@ All issues run from commencement through iteration to completion.
 | Must | Code peer review passes/ is accepted  |
 | Must | Issue branch is merged, and deployed to automated testing  |
 | Should | The Issue management system item is advanced to `in test` [^1] |
+{:.table}
 
 ## Best practices 
 
