@@ -7,7 +7,7 @@ description: What are the next steps
 order: 10000
 ---
 
-# You've been offered!
+# You've been offered
 
 Initially you will receive a verbal offer from us, and once we have agreed a start date with you we will send you a written offer for you to sign and return. At this point we would start the ball rolling in terms of getting you set up on our systems and also we would invite you to apply for any security clearance needed (paid for by us) so that you can work on some of the highly sensitive government projects we have on our portfolio.
 
