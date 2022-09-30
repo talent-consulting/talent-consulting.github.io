@@ -9,7 +9,7 @@ order: 10000
 
 # You've been offered
 
-You will initially receive a verbal offer from us, and once we have agreed a start date with you we will send you a written offer for you to sign and return. At this point we would start the ball rolling in terms of getting you set up on our systems and also we would invite you to apply for any security clearance needed (paid for by us) so that you can work on some of the highly sensitive government projects we have on our portfolio.
+Initially you will receive a verbal offer from us, and once we have agreed a start date with you we will send you a written offer for you to sign and return. At this point we would start the ball rolling in terms of getting you set up on our systems and also we would invite you to apply for any security clearance needed (paid for by us) so that you can work on some of the highly sensitive government projects we have on our portfolio.
 
 We would like to keep in touch with you between the offer and your start date in order that you are familiar with the team and have everything you need. We would agree with you on how you prefer this communication to take place and how frequently
 
