@@ -19,8 +19,7 @@ time at Talent
 
 Please click ont following link to access the Company handbook and our policies.
 
-
-[here]https://talent-intl.slack.com/files/U018E77HBH9/F043LV52QFR/employee_handbook.docx
+**https://talent-intl.slack.com/files/U018E77HBH9/F043LV52QFR/employee_handbook.docx**
 
 {% assign pages = site.pages
   | where: "category", "Company"
