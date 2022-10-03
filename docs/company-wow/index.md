@@ -17,9 +17,8 @@ requirements, but all the policies and guidelines described in the
 handbook will help you  to  achieve maximum success  during  your
 time at Talent
 
-Please click ont following link to access the Company handbook and our policies.
+Please click on the following link to access the Company handbook and our policies.
 
-**https://talent-intl.slack.com/files/U018E77HBH9/F043LV52QFR/employee_handbook.docx**
 
 {% assign pages = site.pages
   | where: "category", "Company"
