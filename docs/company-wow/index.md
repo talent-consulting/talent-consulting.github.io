@@ -2,7 +2,7 @@
 category: Company
 pagetype: Index
 icon: fas fa-solid fa-book-open-reader fa-2x
-description: A bit about us and the roles currently available
+description: A bit about how we opreate and welcoming you to the company
 order: 1000
 ---
 
