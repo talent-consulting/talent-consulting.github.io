@@ -2,7 +2,9 @@
 category: Company
 type: About
 icon: fas fa-calendar-days fa-2x
-description: What we do and who we are
+description: Who we are
+
+
 order: 1000
 ---
 
