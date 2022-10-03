@@ -9,7 +9,19 @@ order: 1000
 ##  Policies and Employee Handbbok
  
 > The documents in this section talk through the company and how we operate
- 
+
+The company handbook explains how we can all work together
+effectively to ensure the smooth running of the business. Some of
+our   policies   are   contractual   obligations, are   legal
+requirements, but all the policies and guidelines described in the
+handbook will help you  to  achieve maximum success  during  your
+time at Talent
+
+Please click ont following link to access the Company handbook and our policies.
+
+
+ https://talent-intl.slack.com/files/U018E77HBH9/F043LV52QFR/employee_handbook.docx
+
 {% assign pages = site.pages
   | where: "category", "Company"
   | where: "type", "Policies"
