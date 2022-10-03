@@ -2,7 +2,7 @@
 category: Company
 pagetype: Index
 icon: fas fa-address-card fa-2x
-description: A bit about us and the roles currently available
+description: A bit about us 
 order: 1
 ---
 
