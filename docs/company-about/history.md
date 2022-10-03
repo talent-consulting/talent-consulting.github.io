@@ -2,7 +2,7 @@
 category: Company
 type: About
 icon: fas fa-calendar-days fa-2x
-description: What benefits are available
+description: What we do and who we are
 order: 1000
 ---
 
