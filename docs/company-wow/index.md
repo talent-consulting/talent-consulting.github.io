@@ -6,7 +6,7 @@ description: A bit about us and the roles currently available
 order: 1000
 ---
 
-##  Policies And Employee Handbbok
+##  Policies and Employee Handbbok
  
 > The documents in this section talk through the company and how we operate
  
