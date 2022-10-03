@@ -4,7 +4,6 @@ type: About
 icon: fas fa-calendar-days fa-2x
 description: Who we are
 
-
 order: 1000
 ---
 
