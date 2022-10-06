@@ -1,6 +1,6 @@
 ---
 category: Company
-type: Roles
+type: 
 role-type: Secops
 icon: fas fa-lock fa-2x
 description: A sec-ops engineer, what to expect from the role and interview
